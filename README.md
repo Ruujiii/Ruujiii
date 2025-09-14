@@ -97,8 +97,13 @@
 ## 📊 Stats  
 
 <p align="center">
-  <a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" target="_blank">
-  </a>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rodjeangere&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodjeangere&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 <p align="center">⭐ <strong>If you like my work, consider starring a repo!</strong> ⭐</p>
