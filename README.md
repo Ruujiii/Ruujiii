@@ -98,12 +98,12 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruujiii&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruujiii&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruujiii&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruujiii&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 <p align="center">⭐ <strong>If you like my work, consider starring a repo!</strong> ⭐</p>
