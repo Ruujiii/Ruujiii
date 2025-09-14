@@ -63,13 +63,6 @@
 <img src="https://img.shields.io/badge/HDL-FF5722?style=for-the-badge" />
 <img src="https://img.shields.io/badge/8086_Assembly-607D8B?style=for-the-badge" />
 
-<!-- AI/ML -->
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Roboflow-00BFFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-
 </p>
 
 ## ⚙️ Tools
@@ -92,6 +85,13 @@
 <img src="https://img.shields.io/badge/Microsoft_365-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
 </p>
+
+<!-- AI/ML -->
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Roboflow-00BFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
 ---
 
