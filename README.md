@@ -15,6 +15,8 @@
 <p align="center">
 🎓 21 years old — BS in Computer Engineering  
 <br>🛠 Software Developer
+<br>🚀 Always learning new stacks, breaking things, and fixing them again  
+<br>💡 Exploring full-stack development, game development, and cybersecurity solutions  
 </p>
 
 <p align="center">
@@ -59,6 +61,7 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
